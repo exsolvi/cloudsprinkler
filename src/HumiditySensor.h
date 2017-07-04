@@ -4,7 +4,7 @@
 #include "Sensor.h"
 #include "DHT.h"
 
-class HumiditySensor: public Thread , public Sensor
+class HumiditySensor: virtual public Thread , virtual public Sensor
 {
   private:
     DHT* dht;

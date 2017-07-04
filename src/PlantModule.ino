@@ -1,3 +1,4 @@
+#include "Arduino.h"
 #include <Wire.h>
 #include <ThreadController.h>
 #include <ArduinoOTA.h>
@@ -11,6 +12,7 @@
 #include "Config.h"
 #include "Logger.h"
 #include "DataSender.h"
+#include "ArduinoJson.h"
 
 const char* fingerprint = "64 39 f5 dd a5 f6 64 d2 aa 2f 9d 3c dc 6e 42 90 a9 e6 b6 55";
 bool safeMode = true;

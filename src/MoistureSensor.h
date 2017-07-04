@@ -3,7 +3,7 @@
 #include "Thread.h"
 #include "Sensor.h"
 
-class MoistureSensor: public Thread , virtual public Sensor
+class MoistureSensor: virtual public Thread , virtual public Sensor
 {
   private:
     int sensorPin;

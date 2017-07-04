@@ -2,6 +2,9 @@
 #include <ESP8266WiFi.h>
 #include <time.h>
 
+const char* ssid = "";
+const char* password = "";
+
 void printSystemInfo() {
   Serial.println(F("----- System details -----------------------------------------"));
   Serial.print(F("Vcc                   : "));

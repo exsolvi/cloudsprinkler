@@ -1,4 +1,5 @@
 #include <ArduinoOTA.h>
+#include <ESP8266mDNS.h>
 
 void setupOTA() {
   // Port defaults to 8266
