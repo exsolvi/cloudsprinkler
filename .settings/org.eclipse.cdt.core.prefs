@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/0.910961921/PATH/delimiter=;
+environment/project/0.910961921/PATH/operation=replace
+environment/project/0.910961921/PATH/value=C\:\\ProgramFiles\\Cygwin\\usr\\local\\bin;C\:\\ProgramFiles\\Cygwin\\bin;C\:\\ProgramFiles\\Python27;C\:\\ProgramFiles\\Python27\\Scripts;C\:\\ProgramData\\Oracle\\Java\\javapath;C\:\\WINDOWS\\system32;C\:\\WINDOWS;C\:\\WINDOWS\\System32\\Wbem;C\:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;C\:\\ProgramFilesX86\\apache-maven-3.3.9\\bin;C\:\\ProgramFiles\\Java\\jdk1.8.0_121\\bin;C\:\\Users\\DavidBoman\\Desktop\\gpx-2.5.2-win64;C\:\\Users\\DavidBoman\\AppData\\Local\\Microsoft\\WindowsApps;C\:\\ProgramFiles\\Cygwin\\lib\\lapack
+environment/project/0.910961921/append=true
+environment/project/0.910961921/appendContributed=true
