@@ -1,10 +1,10 @@
 #ifndef PRESSURESENSOR_H
 #define PRESSURESENSOR_H
 #include "Thread.h"
-#include "Sensor.h"
+#include "Sensor.hpp"
 #include <Adafruit_BMP085.h>
 
-class PressureSensor: public Thread , virtual public Sensor
+class PressureSensor: public Thread, public Sensor
 {
   private:
     Adafruit_BMP085 * bmp;

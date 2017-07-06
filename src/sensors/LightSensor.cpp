@@ -1,4 +1,4 @@
-#include "LightSensor.h"
+#include <sensors/LightSensor.hpp>
 
 LightSensor::LightSensor() {
   NAME = "light";

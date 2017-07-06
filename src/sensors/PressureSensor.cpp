@@ -1,4 +1,4 @@
-#include "PressureSensor.h"
+#include <sensors/PressureSensor.hpp>
 
 PressureSensor::PressureSensor() {
   NAME = "pressure";

@@ -1,10 +1,10 @@
 #ifndef TEMPERATURESENSOR_H
 #define TEMPERATURESENSOR_H
 #include "Thread.h"
-#include "Sensor.h"
+#include "Sensor.hpp"
 #include <Adafruit_BMP085.h>
 
-class TemperatureSensor: public Thread , virtual public Sensor
+class TemperatureSensor: public Thread, public Sensor
 {
   private:
     Adafruit_BMP085 * bmp;

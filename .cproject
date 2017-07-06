@@ -27,31 +27,31 @@
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\tools\sdk\lwip\include"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\cores\esp8266"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\variants\d1_mini"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoThreadPatched"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoJson_ID64\src"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266WiFi\src"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266mDNS"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoJson_ID64\src"/>
-									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\Wire"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit BMP085 Library_ID525"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\ArduinoOTA"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Thread_ID440"/>
-									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266HTTPClient\src"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit Unified Sensor_ID31"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\DHT sensor library_ID19"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\BH1750_ID439"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\src"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit BMP085 Library_ID525"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit Unified Sensor_ID31"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoJson_ID64\src"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoJson_ID64\src"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\BH1750_ID439"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\Wire"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\BH1750_ID439"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\DHT sensor library_ID19"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit Unified Sensor_ID31"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\DHT sensor library_ID19"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Thread_ID440"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Thread_ID440"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\esp8266_mdns_ID1091"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266HTTPClient\src"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit BMP085 Library_ID525"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit Unified Sensor_ID31"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\DHT sensor library_ID19"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\BH1750_ID439"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\src"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit BMP085 Library_ID525"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit Unified Sensor_ID31"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoJson_ID64\src"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoJson_ID64\src"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoThreadPatched"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoThreadPatched"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\BH1750_ID439"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\Wire"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\BH1750_ID439"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\DHT sensor library_ID19"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit Unified Sensor_ID31"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\DHT sensor library_ID19"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\esp8266_mdns_ID1091"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\ArduinoOTA"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\DNSServer\src"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\EEPROM"/>
@@ -96,31 +96,31 @@
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\tools\sdk\lwip\include"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\cores\esp8266"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\variants\d1_mini"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoThreadPatched"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoJson_ID64\src"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266WiFi\src"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266mDNS"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoJson_ID64\src"/>
-									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\Wire"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit BMP085 Library_ID525"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\ArduinoOTA"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Thread_ID440"/>
-									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266HTTPClient\src"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit Unified Sensor_ID31"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\DHT sensor library_ID19"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\BH1750_ID439"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\src"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit BMP085 Library_ID525"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit Unified Sensor_ID31"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoJson_ID64\src"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoJson_ID64\src"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\BH1750_ID439"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\Wire"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\BH1750_ID439"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\DHT sensor library_ID19"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit Unified Sensor_ID31"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\DHT sensor library_ID19"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Thread_ID440"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Thread_ID440"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\esp8266_mdns_ID1091"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266HTTPClient\src"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit BMP085 Library_ID525"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit Unified Sensor_ID31"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\DHT sensor library_ID19"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\BH1750_ID439"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\src"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit BMP085 Library_ID525"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit Unified Sensor_ID31"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoJson_ID64\src"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoJson_ID64\src"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoThreadPatched"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoThreadPatched"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\BH1750_ID439"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\Wire"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\BH1750_ID439"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\DHT sensor library_ID19"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit Unified Sensor_ID31"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\DHT sensor library_ID19"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\esp8266_mdns_ID1091"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\ArduinoOTA"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\DNSServer\src"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\EEPROM"/>
@@ -165,31 +165,31 @@
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\tools\sdk\lwip\include"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\cores\esp8266"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\variants\d1_mini"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoThreadPatched"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoJson_ID64\src"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266WiFi\src"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266mDNS"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoJson_ID64\src"/>
-									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\Wire"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit BMP085 Library_ID525"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\ArduinoOTA"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Thread_ID440"/>
-									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266HTTPClient\src"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit Unified Sensor_ID31"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\DHT sensor library_ID19"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\BH1750_ID439"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\src"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit BMP085 Library_ID525"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit Unified Sensor_ID31"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoJson_ID64\src"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoJson_ID64\src"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\BH1750_ID439"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\Wire"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\BH1750_ID439"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\DHT sensor library_ID19"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit Unified Sensor_ID31"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\DHT sensor library_ID19"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Thread_ID440"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Thread_ID440"/>
-									<listOptionValue builtIn="false" value="C:\Users\DavidBoman\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\esp8266_mdns_ID1091"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266HTTPClient\src"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit BMP085 Library_ID525"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit Unified Sensor_ID31"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\DHT sensor library_ID19"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\BH1750_ID439"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\src"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit BMP085 Library_ID525"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit Unified Sensor_ID31"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoJson_ID64\src"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoJson_ID64\src"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoThreadPatched"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\ArduinoThreadPatched"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\BH1750_ID439"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\Wire"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\BH1750_ID439"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\DHT sensor library_ID19"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\Adafruit Unified Sensor_ID31"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\DHT sensor library_ID19"/>
+									<listOptionValue builtIn="false" value="${USERPROFILE}\Eclipse\cpp-neon\projects\cloudsprinkler\.piolibdeps\esp8266_mdns_ID1091"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\ArduinoOTA"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\DNSServer\src"/>
 									<listOptionValue builtIn="false" value="${USERPROFILE}\.platformio\packages\framework-arduinoespressif8266\libraries\EEPROM"/>

@@ -1,4 +1,4 @@
-#include "HumiditySensor.h"
+#include <sensors/HumiditySensor.hpp>
 
 HumiditySensor::HumiditySensor(int sensorPin) {
   NAME = "humidity";

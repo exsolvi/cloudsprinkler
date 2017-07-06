@@ -1,6 +1,6 @@
 #include <ArduinoJson.h>
-#include "DataSender.h"
-#include "Logger.h"
+#include "DataSender.hpp"
+#include "Logger.hpp"
 #include <Arduino.h>
 #include <vector>
 #include <ESP8266HTTPClient.h>

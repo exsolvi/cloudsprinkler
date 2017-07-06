@@ -1,4 +1,4 @@
-#include "Logger.h"
+#include "Logger.hpp"
 
 void Logger::log(std::string msg) {
   Logger::log(msg.c_str());

@@ -2,16 +2,16 @@
 #include <Wire.h>
 #include <ThreadController.h>
 #include <ArduinoOTA.h>
-#include "Utils.h"
-#include "OTASupport.h"
-#include "MoistureSensor.h"
-#include "HumiditySensor.h"
-#include "PressureSensor.h"
-#include "LightSensor.h"
-#include "TemperatureSensor.h"
-#include "Config.h"
-#include "Logger.h"
-#include "DataSender.h"
+#include <sensors/HumiditySensor.hpp>
+#include <sensors/LightSensor.hpp>
+#include <sensors/MoistureSensor.hpp>
+#include "Utils.hpp"
+#include "OTASupport.hpp"
+#include "sensors/PressureSensor.hpp"
+#include "sensors/TemperatureSensor.hpp"
+#include "Config.hpp"
+#include "Logger.hpp"
+#include "DataSender.hpp"
 #include "ArduinoJson.h"
 
 const char* fingerprint = "64 39 f5 dd a5 f6 64 d2 aa 2f 9d 3c dc 6e 42 90 a9 e6 b6 55";

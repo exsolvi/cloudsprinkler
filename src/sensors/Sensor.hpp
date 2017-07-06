@@ -12,6 +12,7 @@ class Sensor
     const char* NAME = "--NAME--";
     void updateSensorValue(float value);
   public:
+    virtual ~Sensor() {};
     virtual void sense() = 0;
     float getCurrentValue();
     float getAndResetCurrentValue();

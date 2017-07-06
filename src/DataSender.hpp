@@ -2,7 +2,7 @@
 #define DATASENDER_H
 #include <vector>
 #include "Thread.h"
-#include "Sensor.h"
+#include "sensors/Sensor.hpp"
 
 class DataSender: public Thread
 {

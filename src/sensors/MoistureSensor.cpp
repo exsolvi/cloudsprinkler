@@ -1,4 +1,4 @@
-#include "MoistureSensor.h"
+#include <sensors/MoistureSensor.hpp>
 
 MoistureSensor::MoistureSensor(int pin) {
   NAME = "moisture";
@@ -9,7 +9,6 @@ void MoistureSensor::run() {
   sense();
   runned();
 }
-
 
 void MoistureSensor::sense() {
   float moisture = analogRead(sensorPin);

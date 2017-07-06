@@ -1,4 +1,4 @@
-#include "Config.h"
+#include "Config.hpp"
 #include <ESP8266HTTPClient.h>
 
 Config::Config(String baseUrl, char const* fingerprint): baseUrl(baseUrl), fingerprint(fingerprint) {

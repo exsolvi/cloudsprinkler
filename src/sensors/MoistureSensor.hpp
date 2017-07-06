@@ -1,15 +1,15 @@
 #ifndef MOISTURESENSOR_H
 #define MOISTURESENSOR_H
 #include "Thread.h"
-#include "Sensor.h"
+#include "Sensor.hpp"
 
-class MoistureSensor: virtual public Thread , virtual public Sensor
+class MoistureSensor: public Thread, public Sensor
 {
   private:
     int sensorPin;
   public:
     explicit MoistureSensor(int sensorPin);
-    void run();
+	void run();
     void sense();
 };
 

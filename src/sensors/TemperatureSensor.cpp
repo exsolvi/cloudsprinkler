@@ -1,4 +1,4 @@
-#include "TemperatureSensor.h"
+#include "TemperatureSensor.hpp"
 
 TemperatureSensor::TemperatureSensor() {
   NAME = "temperature";

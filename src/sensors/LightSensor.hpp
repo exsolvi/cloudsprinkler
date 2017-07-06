@@ -1,10 +1,10 @@
 #ifndef LIGHTSENSOR_H
 #define LIGHTSENSOR_H
 #include "Thread.h"
-#include "Sensor.h"
+#include "Sensor.hpp"
 #include <BH1750.h>
 
-class LightSensor: public Thread , virtual public Sensor
+class LightSensor: public Thread, public Sensor
 {
   private:
     BH1750 * lightMeter;

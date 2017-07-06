@@ -1,10 +1,10 @@
 #ifndef HUMIDITYSENSOR_H
 #define HUMIDITYSENSOR_H
 #include "Thread.h"
-#include "Sensor.h"
+#include "Sensor.hpp"
 #include "DHT.h"
 
-class HumiditySensor: virtual public Thread , virtual public Sensor
+class HumiditySensor: public Thread, public Sensor
 {
   private:
     DHT* dht;
